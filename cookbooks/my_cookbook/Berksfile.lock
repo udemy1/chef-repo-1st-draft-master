@@ -1,0 +1,20 @@
+{
+  "sha": "e935f4b0a4a77d1d0e3b8262024d697ccc4df888",
+  "sources": {
+    "my_cookbook": {
+      "path": "."
+    },
+    "apt": {
+      "locked_version": "2.0.0"
+    },
+    "minitest-handler": {
+      "locked_version": "0.2.1"
+    },
+    "my_cookbook_test": {
+      "path": "./test/cookbooks/my_cookbook_test"
+    },
+    "chef_handler": {
+      "locked_version": "1.1.4"
+    }
+  }
+}

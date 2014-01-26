@@ -1,0 +1,15 @@
+---
+berksfile: 
+cookbooks:
+- my_cookbook:
+    version: 0.1.0
+roles:
+- base: 
+data bags:
+- users:
+    items:
+    - mma
+
+nodes:
+- vagrant 2:
+    run_list: role[base]

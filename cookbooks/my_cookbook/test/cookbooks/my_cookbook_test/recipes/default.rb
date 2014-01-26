@@ -1,0 +1,1 @@
+include_recipe 'my_cookbook::default'

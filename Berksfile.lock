@@ -1,0 +1,8 @@
+{
+  "sha": "5bda34e462deec66a8a08d5fc8b83712ab8b383e",
+  "sources": {
+    "greeting": {
+      "path": "./cookbooks/greeting"
+    }
+  }
+}
